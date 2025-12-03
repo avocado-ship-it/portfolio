@@ -47,7 +47,7 @@ export default function ContentPage({ title, subtitle, children }: ContentPagePr
               ← Back to Portfolio
             </Link>
             <p className="font-karla text-sm text-gray-500">
-              Jacob Leuthardt
+              Jace Leuthardt
             </p>
           </div>
         </div>
